@@ -1,3 +1,7 @@
 Hello World!!
 Sample demo document used for reference
 
+sample clone document
+
+open the terminal window with the folder 
+terminal : git clone "url"
